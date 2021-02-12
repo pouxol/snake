@@ -1,4 +1,4 @@
-from turtle import Screen, Turtle
+from turtle import Turtle
 
 MOVE_DISTANCE = 20
 POSITIONS = [(0, 0), (0, -20), (0, -40)]
